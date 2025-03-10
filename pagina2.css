@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+<<<<<<< HEAD
+      padding: 9px;
+    background-color:cornflowerblue ;
+=======
+    padding: 9px;
+    background-color:cornflowerblue ;
+    color: wheat;
+>>>>>>> 9f776a08dadf5e76479c6ecc9cbc360d8f40c9a3
+    position:sticky;
+    top: 0;
+    left: 0;
+}
+.menus-header ul{
+   display: flex;
+   padding: 40px;
+   list-style: none;
+   justify-content: end;
+}
+.menus-header li{
+margin-right: 50px;
+}
+.menus-header a{
+text-decoration: none;
+font-size: 30px;
+color: white;
+}
+h1{
+    display: flex;
+    justify-content: end;
+    margin-left: 86px;
+    font-size: 35px;
+    color: white;
+}
+
+.section-paragrafo{
+    display: flex;
+    justify-content: end;
+    margin-left: 860px;
+    color: white;
+    font-size: 15px;
+}
+
+.btn {
+    display: flex;
+    
+}
+.btn {
+    justify-content:end;
+    margin-top:10px;
+    text-decoration: none;
+}
+
+
+.btn button{
+    font-size: 25px;
+    padding: 15px; 
+    background-color: gray;
+    color:white;
+    font-size: 25px;
+    border-radius: 90px;
+  
+    box-shadow: 9px 5px 9px;
+    cursor: pointer; 
+}
+.btn button:hover{
+    color: black;
+    transition: 0.6s;
+}
+
+#section-img{
+<<<<<<< HEAD
+
+=======
+    background-image: url(imagem/iphone.webp);
+    padding: 20rem;
+>>>>>>> 9f776a08dadf5e76479c6ecc9cbc360d8f40c9a3
+    background-size: cover;
+    height: 100px;
+background-size: 70%;
+background-repeat: no-repeat;
+background-size: cover ;
+}
+
+<<<<<<< HEAD
+}
+=======
+.section-p{
+    padding: 5em;
+    background-color: rgba(128, 128, 128, 0.459);
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+
+.div-p{
+    font-size: 1em;
+    justify-content: space-between;
+}
+
+#img2{
+    background-image: url();
+    padding: 25em;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hodape{
+    padding: 3em;
+    background-color:cornflowerblue;
+    font-size: 20px;
+ 
+}
+.hodape ul{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+}
+
+.hodape a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: white;
+    font-size: 30px;
+}
+
+@media screen and (min-width:400px){
+    header{
+        padding: 0,09em;
+        font-size: 0,7em;
+    }
+    .menus-header ul{
+        padding: 1em;
+ 
+    }
+        .menus-header li{
+            margin-right: 2.5;
+            }
+            .menus-header a{
+            text-decoration: none;
+            font-size: 1em;
+            color: rgb(0, 0, 0);
+            }
+
+
+            h1{
+                display: flex;
+                justify-content: end;
+                margin-left: 19em;
+                font-size: 1em;
+                color: white;
+            }
+            
+            .section-paragrafo{
+                display: flex;
+                justify-content: end;
+                margin-left: 20em;
+                color: white;
+                font-size: 0em;
+            }
+            
+            .btn {
+                display: flex;
+                
+            }
+            .btn {
+                justify-content:end;
+                margin-top:10px;
+                text-decoration: none;
+            }
+            
+            
+            .btn button{
+                font-size: 5em;
+                padding: 15px; 
+                background-color: gray;
+                color:white;
+                font-size: 25px;
+                border-radius: 90px;
+              
+                box-shadow: 9px 5px 9px;
+                cursor: pointer; 
+            }
+            .btn button:hover{
+                color: black;
+                transition: 0.6s;
+            }
+            
+
+
+
+
+
+
+
+
+            #section-img{
+                background-image: url(imagem/iphone.webp);
+                padding: 9rem;
+                background-size: cover;
+                height: 100px;
+            background-size: 70%;
+            background-repeat: no-repeat;
+            background-size: cover ;
+    }
+    
+>>>>>>> 9f776a08dadf5e76479c6ecc9cbc360d8f40c9a3
