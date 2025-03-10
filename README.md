@@ -1,2 +1,2 @@
-# lan-amento
+# lançamento
 iphone
